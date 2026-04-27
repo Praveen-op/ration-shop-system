@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Ravi Kumar",
+    "category": "APL",
+    "rationNo": "123456789",
+    "mobile": "9876543210",
+    "district": "Salem",
+    "address": "Door No. 12, Gandhi Street, Attur, Salem — 636102",
+    "shopCode": "SM-001",
+    "family": [
+      { "name": "Ravi Kumar",   "age": 42 },
+      { "name": "Meena Ravi",   "age": 38 },
+      { "name": "Karthik Ravi", "age": 18 },
+      { "name": "Priya Ravi",   "age": 15 }
+    ],
+    "createdAt": { "$date": "2025-01-10T08:00:00.000Z" }
+  },
+  {
+    "name": "Murugan S",
+    "category": "BPL",
+    "rationNo": "987654321",
+    "mobile": "8765432109",
+    "district": "Salem",
+    "address": "5/A, Anna Nagar, Omalur, Salem — 636455",
+    "shopCode": "SM-002",
+    "family": [
+      { "name": "Murugan S",  "age": 45 },
+      { "name": "Lakshmi M",  "age": 40 }
+    ],
+    "createdAt": { "$date": "2025-01-11T08:00:00.000Z" }
+  },
+  {
+    "name": "Selvam P",
+    "category": "PHH",
+    "rationNo": "456789123",
+    "mobile": "7654321098",
+    "district": "Salem",
+    "address": "No. 33, Nehru Road, Mettur, Salem — 636401",
+    "shopCode": "SM-003",
+    "family": [
+      { "name": "Selvam P",  "age": 38 },
+      { "name": "Valli S",   "age": 34 },
+      { "name": "Deepa S",   "age": 12 }
+    ],
+    "createdAt": { "$date": "2025-01-12T08:00:00.000Z" }
+  },
+  {
+    "name": "Anbu Raja",
+    "category": "BPL",
+    "rationNo": "321654987",
+    "mobile": "6543210987",
+    "district": "Salem",
+    "address": "Plot 7, MGR Street, Yercaud, Salem — 636601",
+    "shopCode": "SM-004",
+    "family": [
+      { "name": "Anbu Raja",      "age": 50 },
+      { "name": "Saraswathi A",   "age": 46 },
+      { "name": "Vijay A",        "age": 22 }
+    ],
+    "createdAt": { "$date": "2025-01-13T08:00:00.000Z" }
+  }
+]

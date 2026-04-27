@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Rice",
+    "icon": "🍚",
+    "unit": "per kg",
+    "price": 1,
+    "quota": "Max 10 kg/month",
+    "maxQty": 10,
+    "stock": 5000,
+    "active": true
+  },
+  {
+    "name": "Sugar",
+    "icon": "🧂",
+    "unit": "per kg",
+    "price": 13.5,
+    "quota": "Max 2 kg/month",
+    "maxQty": 2,
+    "stock": 1000,
+    "active": true
+  },
+  {
+    "name": "Wheat",
+    "icon": "🌾",
+    "unit": "per kg",
+    "price": 2,
+    "quota": "Max 5 kg/month",
+    "maxQty": 5,
+    "stock": 3000,
+    "active": true
+  },
+  {
+    "name": "Kerosene",
+    "icon": "🛢",
+    "unit": "per litre",
+    "price": 15,
+    "quota": "Max 3 L/month",
+    "maxQty": 3,
+    "stock": 500,
+    "active": true
+  },
+  {
+    "name": "Dal (Toor)",
+    "icon": "🫘",
+    "unit": "per kg",
+    "price": 30,
+    "quota": "Max 2 kg/month",
+    "maxQty": 2,
+    "stock": 800,
+    "active": true
+  },
+  {
+    "name": "Edible Oil",
+    "icon": "🫙",
+    "unit": "per litre",
+    "price": 50,
+    "quota": "Max 1 L/month",
+    "maxQty": 1,
+    "stock": 300,
+    "active": true
+  }
+]

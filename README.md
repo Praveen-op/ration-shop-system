@@ -1,6 +1,7 @@
 # TNCS — Tamil Nadu Civil Supplies Portal
 
-A full-stack Ration Shop Management System — dark professional UI, 4-step order flow, Node.js backend, MongoDB.
+The Ration Shop Management System is a full-stack web application designed to digitize and simplify the distribution of essential commodities through a ration shop. The system allows users to log in using their ration category, ration number, and registered mobile number, and access their personal details, family information, and allocated quota.
+The application provides an interface similar to an e-commerce platform where users can view available products such as rice and sugar, add items to a cart, and place orders. The system ensures fair distribution by validating user quotas and maintaining accurate transaction records.
 
 # Step 1 — Extract the ZIP
 
